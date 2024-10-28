@@ -33,7 +33,7 @@ def general_vector_rep(phrase):
     return np.mean(vectors, axis=0) if vectors else np.zeros(300)
 
 # Load the CMU CERT email data
-email_df = pd.read_csv("http_conc.csv")
+email_df = pd.read_csv("email_conc.csv")
 
 # Clean the email content and apply the embedding
 email_df['content_cleaned'] = email_df['content'].apply(remove_unnecessary_words).apply(remove_punctuation)
