@@ -46,4 +46,4 @@ embedded_df = pd.DataFrame(email_df['content_vector'].tolist(), columns=[f'c{i}'
 email_df = pd.concat([email_df.drop(['content', 'content_cleaned'], axis=1), embedded_df], axis=1)
 
 # Save to a new CSV file
-email_df.to_csv("http_with_embeddings.csv", index=False)
+email_df.to_csv("email_with_embeddings.csv", index=False)
