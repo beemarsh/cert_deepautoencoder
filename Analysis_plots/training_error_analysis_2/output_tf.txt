@@ -1,0 +1,8 @@
+Reconstruction MSE for Time Frame 1: 0.005487525954164805
+Reconstruction MSE for Time Frame 2: 0.002695359845151014
+Reconstruction MSE for Time Frame 3: 0.001865959228364358
+
+Reconstruction Errors for Each Time Frame:
+Time Frame 1: MSE = 0.005487525954164805
+Time Frame 2: MSE = 0.002695359845151014
+Time Frame 3: MSE = 0.001865959228364358

@@ -1,0 +1,28 @@
+Total Samples: 2629979
+Anomalies Detected: 131499
+Percentage of Anomalies: 5.00%
+
+Anomaly Threshold (95th Percentile): 0.0105
+
+Reconstruction Error Summary:
+count    2.629979e+06
+mean     1.277718e-03
+std      4.050030e-03
+min      7.564422e-06
+25%      1.018622e-04
+50%      1.850132e-04
+75%      3.689152e-04
+max      6.840214e-02
+
+Top 10 Anomalies:
+         reconstruction_error
+1156959              0.068402
+2565091              0.059051
+2588743              0.053305
+2523459              0.046645
+2465637              0.044092
+2503347              0.042950
+2224361              0.042362
+1632878              0.041159
+1097510              0.041108
+909710               0.040653
