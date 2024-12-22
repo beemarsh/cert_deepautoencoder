@@ -1,0 +1,6 @@
+Reconstruction MSE for Non-Working Hours: 0.0010236837064135959
+Reconstruction MSE for Working Hours: 0.001153902280158872
+
+Reconstruction Errors for Working and Non-Working Hours:
+Non-Working Hours: MSE = 0.0010236837064135959
+Working Hours: MSE = 0.001153902280158872

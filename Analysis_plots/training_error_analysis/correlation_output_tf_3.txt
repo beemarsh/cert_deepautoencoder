@@ -1,0 +1,25 @@
+Top 10 features positively correlated with reconstruction error:
+           Feature  Correlation_with_Error
+       attachments                0.355267
+          to_count                0.172306
+          cc_count                0.154798
+ cc_external_count                0.128117
+ to_external_count                0.089306
+               pc6                0.085726
+               pc5                0.075803
+         bcc_count                0.059788
+              size                0.054666
+bcc_external_count                0.039368
+
+Top 10 features negatively correlated with reconstruction error:
+         Feature  Correlation_with_Error
+            pc_3               -0.021556
+          user_3               -0.021556
+from_is_external               -0.023961
+            pc11               -0.025829
+            pc10               -0.039708
+             pc4               -0.056540
+            pc13               -0.065213
+            pc17               -0.072035
+             pc1               -0.248441
+      time_frame                     NaN
